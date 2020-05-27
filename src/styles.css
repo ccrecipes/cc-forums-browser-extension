@@ -9,7 +9,7 @@
 /* As old forums used to have */
  .Item.Role_ForumAdministrator, .Item.Role_GameDeveloper {
     background-color: #ff000010 !important;
-    background-image: url('chrome-extension://fognkkkaelphlmnbdokfijpjmghlabfp/img/AdminBannerFinal.png') !important;
+    background-image: url('https://raw.githubusercontent.com/ccrecipes/cc-forums-browser-extension/master/src/img/AdminBannerFinal.png') !important;
     background-repeat: no-repeat !important;
     background-position: right bottom !important;
 }
