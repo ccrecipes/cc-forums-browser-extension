@@ -5,7 +5,7 @@ Browser extension that enhances Cubic Castles forum page. Includes various fixes
 #### Features
 - Highlited unread discussions
 - Added **View Profile** & **Edit Profile** buttons
-- Added quick links for official sites to sidebar
+- Added **Quick Links** for official sites to sidebar
 - Colored Admin/Mod comments
 - Various visual fixes
 
