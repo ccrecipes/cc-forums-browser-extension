@@ -1,0 +1,60 @@
+/* Mod discussion comments styling */
+
+/* As old forums used to have */
+ .Item.Role_ForumModerator, .Item.Role_GameModerator {
+    background-color: #00a6ff10 !important;
+}
+/* Admin discussion comments styling */
+
+/* As old forums used to have */
+ .Item.Role_ForumAdministrator, .Item.Role_GameDeveloper {
+    background-color: #ff000010 !important;
+    background-image: url('chrome-extension://fognkkkaelphlmnbdokfijpjmghlabfp/img/AdminBannerFinal.png') !important;
+    background-repeat: no-repeat !important;
+    background-position: right bottom !important;
+}
+/* Makes unread discussions stand out */
+ .ItemDiscussion.Read {
+    opacity: .7 !important;
+}
+/* No image overflow on activity wall */
+ .ItemContent.Activity img {
+    max-width: 100%;
+}
+/* Makes usernames more visible */
+ a.Username {
+    font-size: 15px !important;
+    font-weight: bold !important;
+}
+/* Activity comments separator */
+ .Item.ActivityComment {
+    border-top: 1px solid #ffffff20 !important;
+}
+/* Hides white stripe on closed discussions */
+ .plupload.html5 {
+    display: none;
+}
+/* Dark comment box */
+ .InputBox, .TextBox {
+    background: #121212 !important;
+    color: #fff !important;
+}
+
+.InputBox:focus, .TextBox:focus {
+    background: #121212;
+    color: #fff;
+}
+
+/* Hides unnecessary elements */
+ .editor-help-text, .ImageUploadWrapper, .MItem.AuthorLocation, .Visits {
+    display: none !important;
+}
+
+.panel-link-image {
+    height: 35px;
+    margin-bottom: 5px;
+}
+
+.Header-logo img {
+    max-height: 40px !important;
+}
