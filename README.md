@@ -30,4 +30,4 @@ Browser extension that enhances Cubic Castles forum page. Includes various fixes
 
 ##### Firefox
 1. Download [cubic_castles_forum_tweaks-0.1.1-an+fx.xpi](https://github.com/ccrecipes/cc-forums-browser-extension/raw/master/cubic_castles_forum_tweaks-0.1.1-an+fx.xpi)
-2. Drag and drop the downloaded file (*cubic_castles_forum_tweaks-0.1.0-fx.xpi*) onto your opened Firefox window
+2. Drag and drop the downloaded file (*cubic_castles_forum_tweaks-0.1.1-an+fx.xpi*) onto your opened Firefox window
