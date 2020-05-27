@@ -10,6 +10,8 @@ Browser extension that enhances Cubic Castles forum page. Includes various fixes
 - Added **Quick Links** for official sites to sidebar
 - Colored Admin/Mod comments
 - Small color corrections
+- Usernames are better noticeable
+- Added separators to Activity wall comments
 
 ##### Fixes
 - Activity wall images will no longer extend beyond the edge
